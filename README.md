@@ -8,6 +8,5 @@ Sobre mi:
 - En mi tiempo libre voy al gimnasio y hago natación
 - Me interesa lo relacionado a la ciberseguridad
 
-## Una foto mia
-!(yo.jpeg)
+
 ### Que sea una buena cursada para todos!
