@@ -9,5 +9,5 @@ Sobre mi:
 - Me interesa lo relacionado a la ciberseguridad
 
 ## Una foto mia
-!/yo.jpeg
+!(yo.jpeg)
 ### Que sea una buena cursada para todos!
